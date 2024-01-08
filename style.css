@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
-/* Reset some default styles */
 * {
     margin: 0;
     padding: 0;
@@ -8,8 +7,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-
-/* Navigation Bar Styles */
 .navbar {
     background-color: #136252;
     color: #fff;
